@@ -12,7 +12,7 @@
 - 🌱 Currently learning: **Flutter Framework**, **Spanish Language**
 - 💬 Ask me about: **Flutter, Firebase, Bloc, API Integration**
 - 📫 How to reach me: **abdelrahman.amr.shawky@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1DktjaAXL6vljY52e23Z0ZUtmiwzN4SHv/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1sVTex9_jRGEgTwUhtgD9yZmvCEux3OHO/view?usp=drive_link)
 
 ---
 
